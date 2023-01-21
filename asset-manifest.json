@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/slim-mom/static/css/main.4151fffc.css",
-    "main.js": "/slim-mom/static/js/main.a31b3738.js",
+    "main.js": "/slim-mom/static/js/main.147ddf39.js",
     "static/js/929.ae9919fc.chunk.js": "/slim-mom/static/js/929.ae9919fc.chunk.js",
     "static/js/209.574eff0b.chunk.js": "/slim-mom/static/js/209.574eff0b.chunk.js",
     "static/css/787.2efa0762.chunk.css": "/slim-mom/static/css/787.2efa0762.chunk.css",
-    "static/js/787.9bf8e585.chunk.js": "/slim-mom/static/js/787.9bf8e585.chunk.js",
+    "static/js/787.0426c810.chunk.js": "/slim-mom/static/js/787.0426c810.chunk.js",
     "static/js/904.8ea13fe0.chunk.js": "/slim-mom/static/js/904.8ea13fe0.chunk.js",
     "static/js/302.1620b573.chunk.js": "/slim-mom/static/js/302.1620b573.chunk.js",
     "static/js/763.befbd282.chunk.js": "/slim-mom/static/js/763.befbd282.chunk.js",
@@ -21,11 +21,11 @@
     "static/media/vector-tablet.png": "/slim-mom/static/media/vector-tablet.e37a0f08fba910cd2c43.png",
     "index.html": "/slim-mom/index.html",
     "main.4151fffc.css.map": "/slim-mom/static/css/main.4151fffc.css.map",
-    "main.a31b3738.js.map": "/slim-mom/static/js/main.a31b3738.js.map",
+    "main.147ddf39.js.map": "/slim-mom/static/js/main.147ddf39.js.map",
     "929.ae9919fc.chunk.js.map": "/slim-mom/static/js/929.ae9919fc.chunk.js.map",
     "209.574eff0b.chunk.js.map": "/slim-mom/static/js/209.574eff0b.chunk.js.map",
     "787.2efa0762.chunk.css.map": "/slim-mom/static/css/787.2efa0762.chunk.css.map",
-    "787.9bf8e585.chunk.js.map": "/slim-mom/static/js/787.9bf8e585.chunk.js.map",
+    "787.0426c810.chunk.js.map": "/slim-mom/static/js/787.0426c810.chunk.js.map",
     "904.8ea13fe0.chunk.js.map": "/slim-mom/static/js/904.8ea13fe0.chunk.js.map",
     "302.1620b573.chunk.js.map": "/slim-mom/static/js/302.1620b573.chunk.js.map",
     "763.befbd282.chunk.js.map": "/slim-mom/static/js/763.befbd282.chunk.js.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.4151fffc.css",
-    "static/js/main.a31b3738.js"
+    "static/js/main.147ddf39.js"
   ]
 }
